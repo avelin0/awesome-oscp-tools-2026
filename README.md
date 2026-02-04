@@ -3,4 +3,4 @@ Collection of OSCP Tools and Tricks by Community
 
 
 # Extra 
-- [Extração de Senhas de Goolge Chrome](https://docs.specterops.io/ghostpack-docs/SharpDPAPI-mdx/sharpchrome-overview)
+- [SharpChrome - Extração de Senhas de Google Chrome](https://docs.specterops.io/ghostpack-docs/SharpDPAPI-mdx/sharpchrome-overview)
